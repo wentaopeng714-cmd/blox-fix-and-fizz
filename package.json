@@ -1,0 +1,1 @@
+{"name":"blox-fix-fizz","private":true,"type":"module","scripts":{"start":"python3 -m http.server 4184 --directory dist","test":"node qa/repair.test.mjs"}}
